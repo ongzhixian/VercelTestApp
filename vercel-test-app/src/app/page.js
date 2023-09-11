@@ -1,3 +1,4 @@
-export default function FirstPos2t() {
-    return <h1>My First Post</h1>
-}
+// `app/page.js` is the UI for the `/` URL
+export default function Page() {
+    return <h1>Hello, Home page!</h1>
+  }
