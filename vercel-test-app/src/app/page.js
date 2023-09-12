@@ -1,6 +1,4 @@
-// `app/page.js` is the UI for the `/` URL
 export default function Page() {
-    //return <h1>Hello, Home page!</h1>
     return <>
         <main class="my-0 mx-auto max-w-3xl text-center">
         <h2 class="p-6 text-4xl">A Basic Tailwind CSS Example</h2>
